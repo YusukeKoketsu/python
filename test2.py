@@ -1,0 +1,2 @@
+txt="はじめてのPyhon"
+print(txt)
